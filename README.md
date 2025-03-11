@@ -1,7 +1,5 @@
 # AdditionGameJS
 
-# Simple Addition Game
-
 This is a simple web-based addition game that generates two random numbers and asks the user to enter their sum. The game provides instant feedback on whether the user's answer is correct or not.
 
 ## Features
